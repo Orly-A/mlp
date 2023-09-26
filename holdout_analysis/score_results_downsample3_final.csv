@@ -1,0 +1,10 @@
+Balanced_accuracy,0.378
+f1_score,0.576
+precision,0.599
+recall,0.567
+RMSE,1.328
+Balanced_accuracy,0.304
+f1_score,0.578
+precision,0.583
+recall,0.582
+RMSE,1.6
