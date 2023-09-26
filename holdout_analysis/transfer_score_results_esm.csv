@@ -1,0 +1,4 @@
+Cosine_F1_score: 0.547
+Cosine_balanced_accuracy: 0.262
+Seq_F1_score: 0.336
+Seq_balanced_accuracy: 0.177

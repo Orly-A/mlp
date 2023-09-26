@@ -1,0 +1,15 @@
+RanksumsResult(statistic=13.061557647728442, pvalue=2.729953584308094e-39) wilcoxon for 1
+RanksumsResult(statistic=7.406600493300554, pvalue=6.478903014263788e-14) wilcoxon for 2
+RanksumsResult(statistic=2.4349344850254413, pvalue=0.007447243100608731) wilcoxon for 3
+RanksumsResult(statistic=3.1614530121609894, pvalue=0.0007849207182536193) wilcoxon for 4
+RanksumsResult(statistic=-0.10369516947304253, pvalue=0.5412943699039795) wilcoxon for 5
+RanksumsResult(statistic=3.0416635533400425, pvalue=0.001176373544442059) wilcoxon for 6
+/vol/ek/Home/orlyl02/working_dir/oligopred/mlp/venv/lib/python3.7/site-packages/scipy/stats/stats.py:7784: RuntimeWarning: invalid value encountered in double_scalars
+  z = (s - expected) / np.sqrt(n1*n2*(n1+n2+1)/12.0)
+RanksumsResult(statistic=nan, pvalue=nan) wilcoxon for 7
+RanksumsResult(statistic=1.4466786985941087, pvalue=0.07399346658056825) wilcoxon for 8
+RanksumsResult(statistic=nan, pvalue=nan) wilcoxon for 10
+RanksumsResult(statistic=-2.262741699796952, pvalue=0.988174191672322) wilcoxon for 12
+RanksumsResult(statistic=nan, pvalue=nan) wilcoxon for 14
+RanksumsResult(statistic=nan, pvalue=nan) wilcoxon for 24
+
