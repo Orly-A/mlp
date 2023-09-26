@@ -1,0 +1,18 @@
+This training was run only on oligomers, without monomers and dimers
+9.0 nsub
+3 num_of_clusts
+11.0 nsub
+1 num_of_clusts
+13.0 nsub
+2 num_of_clusts
+15.0 nsub
+1 num_of_clusts
+16.0 nsub
+1 num_of_clusts
+18.0 nsub
+1 num_of_clusts
+60.0 nsub
+1 num_of_clusts
+starting the tuning
+2022-12-27 11:53:26.672025
+Fitting 5 folds for each of 100 candidates, totalling 500 fits
